@@ -1,0 +1,8 @@
+.table.tableNw a.btn {
+    width: 100%;
+    padding: 4px 2px;
+    font-size: 13px;
+}
+.table.tableNw a.btn > i {
+    margin-right: 12px;font-size: 14px;
+}
